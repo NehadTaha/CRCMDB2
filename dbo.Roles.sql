@@ -1,0 +1,8 @@
+﻿CREATE Table [dbo].[Roles](
+[RoleId]INT IDENTITY(1,1) NOT NULL,
+[MovieId] INT NOT NULL,
+[ActorID] INT NOT NULL,
+PRIMARY KEY (RoleId),
+FOREIGN KEY (MovieId) REFERENCES Movies(MovieId),
+FOREIGN KEY (ActorID) REFERENCES Actors(ActorID)
+);
