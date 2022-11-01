@@ -9,3 +9,21 @@ C:\OOP2\CRCCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.csproj.GenerateResource.cache
 C:\OOP2\CRCCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.csproj.CoreCompileInputs.cache
 C:\OOP2\CRCCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.exe
 C:\OOP2\CRCCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.pdb
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\bin\Debug\DatabaseLab4.mdf
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\bin\Debug\DatabaseLab4_log.ldf
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\bin\Debug\Lab4.mdf
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\bin\Debug\Lab4_log.ldf
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\bin\Debug\CRCCMDB2.exe.config
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\bin\Debug\CRCCMDB2.exe
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\bin\Debug\CRCCMDB2.pdb
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.csproj.AssemblyReference.cache
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.actorForm.resources
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.Form1.resources
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.genreForm.resources
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.movieForm.resources
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.Properties.Resources.resources
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.csproj.GenerateResource.cache
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.csproj.CoreCompileInputs.cache
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.exe
+C:\Users\LE1207226\OneDrive - Champlain Regional College\Desktop\School\Object Oriented Programming\GitRepo\CRCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.pdb

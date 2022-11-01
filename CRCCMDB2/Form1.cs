@@ -16,5 +16,31 @@ namespace CRCCMDB2
         {
             InitializeComponent();
         }
+        
+        private void manageMoviesButton_Click(object sender, EventArgs e)
+        {
+            movieForm movieForm = new movieForm();
+
+            movieForm.ShowDialog(); 
+        }
+
+        private void manageActorsButton_Click(object sender, EventArgs e)
+        {
+            actorForm actorForm = new actorForm(); 
+
+            actorForm.ShowDialog();
+        }
+
+        private void manageGenresButton_Click(object sender, EventArgs e)
+        {
+            genreForm genreForm = new genreForm();  
+
+            genreForm.ShowDialog();
+        }
+
+        private void closeButton_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

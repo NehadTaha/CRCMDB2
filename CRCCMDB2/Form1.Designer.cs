@@ -42,6 +42,7 @@
             this.manageMoviesButton.TabIndex = 0;
             this.manageMoviesButton.Text = "Manage Movies";
             this.manageMoviesButton.UseVisualStyleBackColor = true;
+            this.manageMoviesButton.Click += new System.EventHandler(this.manageMoviesButton_Click);
             // 
             // manageActorsButton
             // 
@@ -51,6 +52,7 @@
             this.manageActorsButton.TabIndex = 1;
             this.manageActorsButton.Text = "Manage Actors";
             this.manageActorsButton.UseVisualStyleBackColor = true;
+            this.manageActorsButton.Click += new System.EventHandler(this.manageActorsButton_Click);
             // 
             // manageGenresButton
             // 
@@ -60,6 +62,7 @@
             this.manageGenresButton.TabIndex = 2;
             this.manageGenresButton.Text = "Manage Genres";
             this.manageGenresButton.UseVisualStyleBackColor = true;
+            this.manageGenresButton.Click += new System.EventHandler(this.manageGenresButton_Click);
             // 
             // closeButton
             // 
@@ -69,6 +72,7 @@
             this.closeButton.TabIndex = 3;
             this.closeButton.Text = "Close";
             this.closeButton.UseVisualStyleBackColor = true;
+            this.closeButton.Click += new System.EventHandler(this.closeButton_Click);
             // 
             // Form1
             // 
