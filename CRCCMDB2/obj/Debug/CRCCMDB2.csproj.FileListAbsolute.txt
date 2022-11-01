@@ -1,0 +1,11 @@
+C:\OOP2\CRCCMDB2\CRCCMDB2\bin\Debug\CRCCMDB2.exe.config
+C:\OOP2\CRCCMDB2\CRCCMDB2\bin\Debug\CRCCMDB2.exe
+C:\OOP2\CRCCMDB2\CRCCMDB2\bin\Debug\CRCCMDB2.pdb
+C:\OOP2\CRCCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.csproj.AssemblyReference.cache
+C:\OOP2\CRCCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.csproj.SuggestedBindingRedirects.cache
+C:\OOP2\CRCCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.Form1.resources
+C:\OOP2\CRCCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.Properties.Resources.resources
+C:\OOP2\CRCCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.csproj.GenerateResource.cache
+C:\OOP2\CRCCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.csproj.CoreCompileInputs.cache
+C:\OOP2\CRCCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.exe
+C:\OOP2\CRCCMDB2\CRCCMDB2\obj\Debug\CRCCMDB2.pdb
