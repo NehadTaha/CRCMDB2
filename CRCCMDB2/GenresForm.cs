@@ -16,5 +16,25 @@ namespace CRCCMDB2
         {
             InitializeComponent();
         }
+
+        private void closeButton_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void genresBindingNavigatorSaveItem_Click(object sender, EventArgs e)
+        {
+            this.Validate();
+            this.genresBindingSource.EndEdit();
+            this.tableAdapterManager.UpdateAll(this.lab4DataBaseDataSet);
+
+        }
+
+        private void GenresForm_Load(object sender, EventArgs e)
+        {
+            // TODO: This line of code loads data into the 'lab4DataBaseDataSet.Genres' table. You can move, or remove it, as needed.
+            this.genresTableAdapter.Fill(this.lab4DataBaseDataSet.Genres);
+
+        }
     }
 }
